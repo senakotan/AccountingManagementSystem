@@ -1,5 +1,24 @@
-## 📄 Accounting Management System Report
+📄 Accounting Management System - Project Report
 
-This project report 📘 provides a detailed overview of the **Accounting Management System** developed using Java Swing and MySQL. It includes all UI screens, database structure, and implementation details.
+This comprehensive report 📘 presents the **Accounting Management System** developed using **Java Swing** and **MySQL** as part of the Computer Programming II course.
 
-👉 [**Download Accounting Management System.pdf**](Accounting%20Management%20System.pdf)
+The system enables both **admin** and **standard users** to efficiently manage financial transactions such as income and expenses. Admins can manage users and view global reports, while standard users can handle their own data securely.
+
+The project follows **object-oriented principles**, implements error handling, and uses **JFreeChart** for visual analysis of income vs. expenses.
+
+🔧 Technologies:
+- Java Swing (GUI)
+- MySQL (Database)
+- JDBC (Database Connectivity)
+- JFreeChart (Charts)
+- Object-Oriented Programming (Inheritance, Method Overloading, Generic Methods)
+
+📊 Features:
+- Secure login and registration system with role-based access
+- Add, update, and delete transactions
+- Generate detailed text-based and graphical financial reports
+- Light, dark, and default themes
+- Admin panel for user and transaction management
+- Export reports to `.txt` format
+
+👉 **[Download Full Report – PDF](SenaKotan_C2221241001_BP2Project.pdf)**  
