@@ -30,32 +30,38 @@ The project follows **object-oriented principles**, implements error handling, a
 ## 📝 Registration Page
 *Secure registration form with KVKK checkbox.*
 
-![Register Page](images/register.png)
-
-## 👤 User Dashboard
-*User-specific transaction management screen.*
-
-![User Dashboard](images/user.png)
-
-## 📈 User Report Screen
-*Detailed financial report view with text output and pie chart.*
-
-![User Report](images/user_report.png)
+<img width="851" height="702" alt="image" src="https://github.com/user-attachments/assets/7a2aaa6b-3a28-40b3-962e-83556f31f6e8" />
 
 ## 🧑‍💼 Admin – User Management Panel
 *Manage users: add, update, delete.*
 
-![Admin User Management](images/admin_user.png)
+<img width="1562" height="972" alt="image" src="https://github.com/user-attachments/assets/58dbcc13-2182-4f3e-81fc-5f023f97cb50" />
+
 
 ## 💳 Admin – Transaction Management Panel
 *View, add, and edit all users' transactions.*
 
-![Admin Transactions](images/admin_transactions.png)
+<img width="1372" height="992" alt="image" src="https://github.com/user-attachments/assets/1ce36713-9c9c-4a59-b4f2-cb02a423a5e9" />
+
 
 ## 📊 Admin – Report & Chart Screen
 *Admin-generated financial summaries with charts.*
 
-![Admin Reports](images/admin_reports.png)
+<img width="1578" height="896" alt="image" src="https://github.com/user-attachments/assets/e2205af7-5cc2-4585-bba1-c305e008d8e0" />
+
+
+## 👤 User Dashboard
+*User-specific transaction management screen.*
+
+<img width="1718" height="878" alt="image" src="https://github.com/user-attachments/assets/c667a3b2-2ed7-4d15-907c-6a66a8704d6c" />
+
+
+## 📈 User Report Screen
+*Detailed financial report view with text output and pie chart.*
+
+<img width="1558" height="732" alt="image" src="https://github.com/user-attachments/assets/50eb9c80-f28f-4d8f-82ce-26f1fa6d35b4" />
+
+
 
 
 
