@@ -21,4 +21,4 @@ The project follows **object-oriented principles**, implements error handling, a
 - Admin panel for user and transaction management
 - Export reports to `.txt` format
 
- 👉 **[Download Full Report – PDF](AccountingManagementSystem.pdf)**  
+ 👉 **[Download Full Report – PDF](Accounting Management System.pdf)**  
