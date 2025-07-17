@@ -53,7 +53,8 @@ The project follows **object-oriented principles**, implements error handling, a
 ## 👤 User Dashboard
 *User-specific transaction management screen.*
 
-<img width="1718" height="878" alt="image" src="https://github.com/user-attachments/assets/c667a3b2-2ed7-4d15-907c-6a66a8704d6c" />
+<img width="1713" height="879" alt="image" src="https://github.com/user-attachments/assets/78683da0-775b-4916-976a-a5d25ee63f7b" />
+
 
 
 ## 📈 User Report Screen
