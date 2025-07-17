@@ -65,4 +65,4 @@ The project follows **object-oriented principles**, implements error handling, a
 
 
 
-<img width="1131" height="778" alt="image" src="https://github.com/user-attachments/assets/dd9d9634-dc14-4170-81b1-bb028fa2447b" />
+
