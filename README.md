@@ -1,8 +1,9 @@
 # 📄 Accounting Management System
 
-This project presents the **Accounting Management System** developed using **Java Swing** and **MySQL** as part of the Computer Programming II course.  
+This project presents the **Accounting Management System** developed using **Java Swing** and **MySQL**.  
 It enables both **admin** and **standard users** to manage financial transactions such as income and expenses.  
 Admins can manage users and view global reports, while standard users handle their own data securely.
+
 
 # 🔧 Technologies:
 - Java Swing (GUI)
