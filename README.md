@@ -36,7 +36,7 @@ The project follows **object-oriented principles**, implements error handling, a
 ## 🧑‍💼 Admin – User Management Panel
 *Manage users: add, update, delete.*
 
-<img width="1562" height="972" alt="image" src="https://github.com/user-attachments/assets/58dbcc13-2182-4f3e-81fc-5f023f97cb50" />
+<img width="1567" height="969" alt="kayitlikullanicilar" src="https://github.com/user-attachments/assets/7dad0865-3c50-49e4-9fe8-564ee4d89c76" />
 
 
 ## 💳 Admin – Transaction Management Panel
