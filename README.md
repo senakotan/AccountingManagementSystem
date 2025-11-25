@@ -31,7 +31,8 @@ The project follows **object-oriented principles**, implements error handling, a
 ## 📝 Registration Page
 *Secure registration form with KVKK checkbox.*
 
-<img width="851" height="702" alt="image" src="https://github.com/user-attachments/assets/7a2aaa6b-3a28-40b3-962e-83556f31f6e8" />
+<img width="848" height="703" alt="kayitekrani" src="https://github.com/user-attachments/assets/f352966c-50e3-426c-bd39-5781562bbb0b" />
+
 
 ## 🧑‍💼 Admin – User Management Panel
 *Manage users: add, update, delete.*
@@ -61,7 +62,8 @@ The project follows **object-oriented principles**, implements error handling, a
 ## 📈 User Report Screen
 *Detailed financial report view with text output and pie chart.*
 
-<img width="1558" height="732" alt="image" src="https://github.com/user-attachments/assets/50eb9c80-f28f-4d8f-82ce-26f1fa6d35b4" />
+<img width="1555" height="738" alt="kullanici_rapor" src="https://github.com/user-attachments/assets/a220de7c-ee4a-4448-89da-87cef165c400" />
+
 
 
 
